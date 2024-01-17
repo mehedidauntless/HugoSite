@@ -1,0 +1,59 @@
+[
+    {
+        "title": "My Amazing Blog Post",
+        "author": "John Doe",
+        "categories": [
+            "technology",
+            "science"
+        ],
+        "content": "This is the content of my blog post...",
+        "images": [
+            "https://example.com/image1.jpg",
+            "https://example.com/image2.jpg"
+        ],
+        "tags": [
+            "blogging",
+            "AI",
+            "machine learning"
+        ],
+        "publication_date": "2024-01-17"
+    },
+    {
+        "title": "My Second Blog Post",
+        "author": "John Doe",
+        "categories": [
+            "technology",
+            "science"
+        ],
+        "content": "This is the content of my blog post...",
+        "images": [
+            "https://example.com/image1.jpg",
+            "https://example.com/image2.jpg"
+        ],
+        "tags": [
+            "blogging",
+            "AI",
+            "machine learning"
+        ],
+        "publication_date": "2024-01-17"
+    },
+    {
+        "title": "My Third Blog Post",
+        "author": "John Doe",
+        "categories": [
+            "technology",
+            "science"
+        ],
+        "content": "This is the content of my blog post...",
+        "images": [
+            "https://example.com/image1.jpg",
+            "https://example.com/image2.jpg"
+        ],
+        "tags": [
+            "blogging",
+            "AI",
+            "machine learning"
+        ],
+        "publication_date": "2024-01-17"
+    }
+]
