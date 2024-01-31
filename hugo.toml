@@ -34,3 +34,6 @@ theme = "tailwind"
 category = "categories"
 tag = "tags"
 series = "series"
+
+[permalinks]
+  blog = "/blog/:slug/"
