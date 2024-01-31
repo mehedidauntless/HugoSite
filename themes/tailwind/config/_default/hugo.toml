@@ -47,3 +47,4 @@ enableEmoji = true
   [module.hugoVersion]
     extended = false
     min = "0.120.0"
+

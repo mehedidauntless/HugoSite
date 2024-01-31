@@ -27,9 +27,6 @@
     class="flex flex-none justify-center z-10 {{- if $.Site.Params.header.sticky }} bg-slate-50 dark:bg-gray-800 sticky top-0{{ end -}}">
     {{ partial "header.html" . }}
   </header>
-  <main class="flex flex-auto justify-center">
-    {{ block "main" . }}{{ end }}
-  </main>
   <div class="flex flex-none justify-center">
     {{ partial "block/hero.html" . }}
   </div>
